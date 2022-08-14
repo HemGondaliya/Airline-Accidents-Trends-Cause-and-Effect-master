@@ -1,0 +1,179 @@
+Country,Injuries,TotalFatalInjuries,TotalUninjured,labels
+Afghanistan,139.0,128.0,211.0,2
+Algeria,112.0,111.0,0.0,3
+American Samoa,41.0,6.0,184.0,3
+Angola,29.0,27.0,102.0,3
+Anguilla,0.0,0.0,1.0,9
+Antarctica,4.0,0.0,10.0,2
+Antigua And Barbuda,0.0,0.0,176.0,4
+Argentina,296.0,238.0,3628.0,3
+Aruba,1.0,0.0,159.0,3
+Australia,336.0,252.0,1671.0,3
+Austria,99.0,53.0,496.0,10
+Bahamas,330.0,180.0,1178.0,9
+Bahrain,143.0,143.0,11.0,3
+Bangladesh,6.0,0.0,216.0,3
+Barbados,5.0,5.0,8.0,1
+Belarus,10.0,10.0,0.0,1
+Belgium,20.0,14.0,805.0,3
+Belize,29.0,21.0,42.0,1
+Benin,166.0,141.0,0.0,5
+Bermuda,42.0,0.0,105.0,2
+Bolivia,232.0,137.0,433.0,3
+Bosnia And Herzegovina,10.0,10.0,0.0,1
+Botswana,19.0,10.0,0.0,1
+Brazil,1289.0,1142.0,2131.0,6
+British Virgin Islands,2.0,1.0,43.0,9
+Bulgaria,1.0,1.0,2.0,1
+Burma,11.0,0.0,62.0,3
+Cambodia,2.0,2.0,0.0,8
+Cameroon,191.0,186.0,0.0,0
+Canada,1485.0,858.0,2837.0,3
+Cayman Islands,14.0,2.0,124.0,1
+Central African Republic,27.0,25.0,0.0,3
+Chile,143.0,92.0,137.0,10
+China,492.0,176.0,1544.0,3
+Colombia,893.0,663.0,640.0,6
+Comoros,153.0,152.0,0.0,5
+Congo,280.0,161.0,121.0,9
+Costa Rica,132.0,58.0,357.0,10
+Cote D'ivoire,186.0,176.0,0.0,1
+Croatia,40.0,39.0,0.0,6
+Cuba,130.0,120.0,255.0,3
+Cyprus,0.0,0.0,402.0,4
+Czech Republic,11.0,11.0,3.0,1
+Denmark,13.0,11.0,822.0,3
+Dominica,15.0,15.0,14.0,1
+Dominican Republic,331.0,265.0,464.0,6
+Ecuador,339.0,118.0,504.0,6
+Egypt,296.0,296.0,327.0,3
+El Salvador,92.0,92.0,170.0,1
+Eritrea,1.0,0.0,136.0,4
+Estonia,22.0,16.0,0.0,10
+Ethiopia,173.0,127.0,7.0,3
+Federated States Of Micronesia,17.0,2.0,39.0,2
+Fiji,5.0,4.0,23.0,3
+Finland,26.0,17.0,76.0,3
+France,876.0,785.0,2899.0,3
+French Guiana,6.0,3.0,0.0,6
+French Polynesia,20.0,20.0,139.0,2
+Gabon,5.0,5.0,0.0,1
+Gambia,11.0,8.0,0.0,1
+Germany,374.0,323.0,1806.0,3
+Ghana,5.0,0.0,28.0,1
+Gibraltar,0.0,0.0,163.0,4
+Greece,145.0,133.0,491.0,3
+Greenland,10.0,8.0,29.0,1
+Guadeloupe,28.0,21.0,7.0,3
+Guatemala,305.0,199.0,281.0,1
+Guinea,6.0,0.0,90.0,10
+Guyana,46.0,13.0,391.0,2
+Haiti,85.0,57.0,251.0,3
+Honduras,205.0,170.0,254.0,1
+Hong Kong,1.0,1.0,26.0,3
+Hungary,17.0,15.0,25.0,3
+Iceland,27.0,15.0,685.0,3
+India,1012.0,963.0,745.0,3
+Indonesia,923.0,641.0,3593.0,3
+Iran,9.0,0.0,327.0,3
+Iraq,17.0,16.0,0.0,1
+Ireland,70.0,40.0,440.0,3
+Isle of Man,2.0,2.0,0.0,3
+Israel,8.0,6.0,286.0,3
+Italy,415.0,342.0,2162.0,3
+Ivory Coast,0.0,0.0,1.0,8
+Jamaica,25.0,8.0,395.0,1
+Japan,206.0,86.0,6140.0,3
+Jordan,0.0,0.0,2.0,1
+Kazakhstan,30.0,29.0,0.0,3
+Kenya,79.0,53.0,47.0,1
+Kiribati,2.0,1.0,1.0,6
+"Korea, Republic Of",228.0,164.0,715.0,3
+Kyrgyzstan,137.0,104.0,160.0,0
+Laos,0.0,0.0,13.0,8
+Latvia,4.0,1.0,295.0,3
+Lebanon,90.0,90.0,0.0,0
+Liberia,6.0,6.0,0.0,1
+Libya,104.0,103.0,0.0,0
+Lithuania,1.0,1.0,0.0,3
+Luxembourg,0.0,0.0,5.0,3
+Macedonia,6.0,6.0,0.0,2
+Madagascar,11.0,11.0,0.0,8
+Malawi,14.0,14.0,0.0,1
+Malaysia,268.0,252.0,167.0,3
+Maldives,10.0,10.0,9.0,1
+Mali,5.0,4.0,0.0,1
+Malta,5.0,5.0,0.0,1
+Marshall Islands,3.0,1.0,18.0,3
+Martinique,1.0,0.0,271.0,4
+Mauritania,1.0,1.0,0.0,8
+Mauritius,3.0,3.0,1.0,3
+Mexico,785.0,562.0,2285.0,1
+Montserrat,1.0,1.0,0.0,1
+Morocco,8.0,8.0,110.0,3
+Mozambique,6.0,5.0,14.0,10
+Namibia,46.0,45.0,5.0,9
+Nauru,0.0,0.0,0.0,3
+Nepal,92.0,84.0,32.0,3
+Netherlands,117.0,25.0,2184.0,3
+Netherlands Antilles,19.0,5.0,12.0,1
+New Caledonia,0.0,0.0,4.0,8
+New Zealand,76.0,63.0,101.0,1
+Nicaragua,20.0,20.0,11.0,6
+Niger,10.0,0.0,0.0,3
+Nigeria,508.0,481.0,360.0,2
+Northern Mariana Islands,16.0,5.0,8.0,1
+Norway,38.0,29.0,36.0,3
+Oman,0.0,0.0,107.0,4
+Pakistan,309.0,309.0,923.0,3
+Palau,0.0,0.0,4.0,6
+Panama,156.0,113.0,544.0,3
+Papua New Guinea,59.0,44.0,3.0,6
+Paraguay,34.0,27.0,272.0,10
+Peru,587.0,482.0,1109.0,3
+Philippines,276.0,254.0,645.0,3
+Poland,46.0,40.0,630.0,6
+Portugal,424.0,238.0,1528.0,4
+Qatar,1.0,1.0,9.0,2
+Reunion,2.0,2.0,0.0,3
+Romania,25.0,20.0,222.0,3
+Russia,804.0,713.0,671.0,6
+Rwanda,0.0,0.0,0.0,9
+Saudi Arabia,36.0,18.0,1474.0,3
+Senegal,56.0,30.0,0.0,0
+Serbia,0.0,0.0,189.0,4
+Sierra Leone,0.0,0.0,126.0,4
+Singapore,0.0,0.0,461.0,3
+Slovakia,5.0,3.0,4.0,1
+Slovenia,8.0,8.0,1.0,6
+Solomon Islands,3.0,2.0,0.0,3
+South Africa,101.0,73.0,451.0,6
+Spain,463.0,303.0,1274.0,3
+St Kitts And Nevis,0.0,0.0,8.0,2
+St Lucia,5.0,5.0,0.0,3
+St Vincent And The Grenadines,1.0,1.0,5.0,1
+Sudan,168.0,167.0,195.0,2
+Suriname,179.0,175.0,3.0,5
+Sweden,42.0,26.0,244.0,3
+Switzerland,154.0,126.0,486.0,1
+Taiwan,550.0,433.0,989.0,3
+Tanzania,58.0,39.0,10.0,1
+Thailand,126.0,96.0,1084.0,3
+Trinidad And Tobago,1.0,0.0,2.0,1
+Tunisia,50.0,14.0,89.0,3
+Turkey,251.0,214.0,576.0,3
+Turks And Caicos Islands,24.0,22.0,201.0,3
+Uganda,40.0,35.0,25.0,10
+Ukraine,308.0,304.0,5.0,2
+United Arab Emirates,24.0,20.0,532.0,3
+United Kingdom,523.0,458.0,5443.0,3
+United States,68819.0,28920.0,319279.0,9
+Unknown,1554.0,590.0,13646.0,3
+Uruguay,98.0,93.0,17.0,3
+Vanuatu,3.0,1.0,0.0,6
+Venezuela,469.0,366.0,547.0,10
+Vietnam,0.0,0.0,623.0,4
+West Indies,22.0,4.0,19.0,1
+Yemen,0.0,0.0,0.0,2
+Zambia,11.0,11.0,0.0,1
+Zimbabwe,0.0,0.0,43.0,3
